@@ -1,0 +1,22 @@
+
+#mainhero{
+    background-image: url('../images/Harold1.jpg');
+    background-size:cover;
+}
+#herocatastro{
+    background-image: url('../images/Spongebob.png');
+    background-size:cover;
+}
+.is-light{
+  background-color: hsl(0, 0%, 84%)
+}
+.column{
+    background-color: rgb(41, 41, 41);
+    color: white;
+    border: solid whitesmoke 2px;
+    border-radius: 15px;
+    margin: 5px;
+}
+.content{
+ text-align: center;
+}
